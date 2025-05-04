@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header'
 import MyListings from './components/MyListings'
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import Inbox from './components/Inbox'
 
 
