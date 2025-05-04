@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Button } from '@/Components/ui/Button';
+import { Button } from '@/Components/ui/button';
 import { CarImages, CarListing } from './../../../configs/schema';
 import { desc, eq } from 'drizzle-orm';
 import { useUser } from '@clerk/clerk-react';

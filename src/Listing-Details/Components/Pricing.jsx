@@ -1,4 +1,4 @@
-import { Button } from '@/Components/ui/Button'
+import { Button } from '@/Components/ui/button'
 import React from 'react'
 import { MdOutlineLocalOffer } from "react-icons/md";
 

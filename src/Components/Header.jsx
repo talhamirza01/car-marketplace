@@ -1,6 +1,6 @@
 import { SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/clerk-react';
 import { Link } from 'react-router-dom';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 const Header = () => {
   return (
     <div className="h-25 flex justify-between items-center shadow-sm p-5">

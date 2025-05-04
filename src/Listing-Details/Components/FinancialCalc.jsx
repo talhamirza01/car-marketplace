@@ -1,4 +1,4 @@
-import { Button } from '@/Components/ui/Button'
+import { Button } from '@/Components/ui/button'
 import { Input } from '@/Components/ui/input'
 import React, { useState } from 'react'
 
